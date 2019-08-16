@@ -1,0 +1,7 @@
+*.csv
+*.xls
+!/source_xls/[0-9]*.xls
+/tmp/*
+/test/*
+!/test/テスト用住所データ（サンプル）.txt
+!.gitkeep
